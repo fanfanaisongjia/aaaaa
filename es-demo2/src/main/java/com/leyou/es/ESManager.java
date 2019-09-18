@@ -197,14 +197,4 @@ public class ESManager {
         client.close();
     }
 
-	
-	 @Test
-    public void lisi(){
-         System.out.println("lisi");
-    }
-
-@Test
-    public void zhangsan(){     
-          System.out.println("zhangsan");
-    }
 }
